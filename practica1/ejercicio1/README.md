@@ -1,4 +1,4 @@
-##Ejercicio 1
+## Ejercicio 1
 Un pedido está representado por un número, una fecha de entrega, un cliente y una
 colección de artículos cada uno con cantidad y precio unitario. Los pedidos son
 cancelados por una serie de remitos que contienen uno o varios artículos del pedido. El

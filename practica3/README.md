@@ -69,3 +69,25 @@ The request is for something forbidden. Authorization will not help.
 
 Internal Error 500
 The server encountered an unexpected condition which prevented it from fulfilling the request.
+
+# Spring.io
+### Realice un investigación y describa brevemente el framework Spring:
+https://docs.spring.io/spring/docs/current/spring-framework-reference/index.html
+
+Spring, ofrece como elemento clave el soporte de infraestructura a nivel de aplicación, brindando un completo modelo 
+tanto para la configuración como para la programación de aplicaciones empresariales desarrolladas bajo Java, sin 
+discriminación en cuanto al despliegue de la plataforma.
+
+Todo esto trae consigo una gran ventaja, ya que permite que los equipos de desarrollo puedan enfocarse directamente en 
+la lógica empresarial que requiere la aplicación, haciendo el proceso más corto, rápido y eficaz, ahorrando líneas de 
+código evitando tareas repetitivas.
+
+### Spring Web MVC:
+* Describa el propósito de las anotaciones @Controller y @ResquestMapping
+* Menciones que otras anotaciones complementan a ResquestMapping para
+machear los distintos métodos de HTTP.
+* ¿Qué permiten las anotaciones @RequestParam, @ResquestHeader,
+@PathVariable, @RequestBody.?
+* ¿Cuál es el propósito de la anotación @Service?
+* Para que se usa la anotación @Autowired
+* Spring-boot: Explique brevemente el propósito de este projecto de Spring
